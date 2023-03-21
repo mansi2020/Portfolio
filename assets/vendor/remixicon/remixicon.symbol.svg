@@ -763,7 +763,7 @@
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-bar-chart-box-line">
     <g>
-        <path fill="none" d="M0 0h24v24H0z"/>
+        <path fill="none" d="M0 0h24v24H0z"/> 
         <path d="M3 3h18a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H3a1 1 0 0 1-1-1V4a1 1 0 0 1 1-1zm1 2v14h16V5H4zm3 8h2v4H7v-4zm4-6h2v10h-2V7zm4 3h2v7h-2v-7z"/>
     </g>
 </symbol><symbol viewBox="0 0 24 24" id="ri-bar-chart-fill">
@@ -11354,3 +11354,4 @@
         <path d="M11 11v2l-5.327 6H11v2H3v-2l5.326-6H3v-2h8zm10-8v2l-5.327 6H21v2h-8v-2l5.326-6H13V3h8z"/>
     </g>
 </symbol></svg>
+
